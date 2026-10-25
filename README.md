@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper game made using Java
+Minesweeper game made using Java Swing 
